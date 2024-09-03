@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">My name is Danny and i'm a Game Developer. I enjoy working on/making games in my free time.<br><br>Currently learning Unreal Engine and C++<br><br>Have a look around!</p>
+<p align="left">My name is Danny and i'm a Game Developer. I enjoy working on/making games in my free time.<br><br>Currently learning Unreal Engine with C++<br><br>Have a look around!</p>
 
 ###
 
