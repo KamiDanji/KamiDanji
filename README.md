@@ -42,7 +42,7 @@
 
 ###
 
-<h3 align="left">Programs i use</h3>
+<h3 align="left">Programs I Use</h3>
 
 ###
 
