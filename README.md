@@ -14,7 +14,7 @@
 
 ###
 
-<h2 align="left">Skills</h2>
+<h2 align="left">My Skills</h2>
 
 ###
 
@@ -42,7 +42,7 @@
 
 ###
 
-<h3 align="left">Programs</h3>
+<h3 align="left">Programs i use</h3>
 
 ###
 
@@ -64,7 +64,7 @@
 
 ###
 
-<h2 align="left">Socials</h2>
+<h2 align="left">Follow My Socials!</h2>
 
 ###
 
