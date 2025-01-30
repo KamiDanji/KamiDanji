@@ -1,105 +1,93 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=KamiDanji.KamiDanji&left_color=coral&right_color=purple&left_text=Visitors"  />
 
-###
+# Welcome to My Profile! 🚀
 
-<h1 align="center">Welcome!</h1>
+[![Twitter Follow](https://img.shields.io/twitter/follow/KamiDanji?color=coral&logo=twitter&style=for-the-badge)](https://x.com/KamiDanji)
 
-###
+---
 
-<h2 align="left">About me</h2>
+## Table of Contents
+- [About Me](#about-me)
+- [Skills & Expertise](#skills--expertise)
+- [Current Focus](#current-focus)
+- [Socials & Links](#socials--links)
+- [GitHub Stats](#github-stats)
+- [Spotify](#spotify)
 
-###
+---
 
-<p align="left">My name is Danny and i'm a Game Developer. I enjoy working on/making games in my free time.<br><br>Currently learning Unreal Engine with C++<br><br>Have a look around!</p>
+## About Me
 
-###
-
-<h2 align="left">My Skills</h2>
-
-###
-
-<h3 align="left">Programming Languages / Frameworks</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/astro/FF5D01" height="40" alt="astro logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+<div align="center">
+  <img src="https://github.com/KamiDanji.png" width="200" alt="My Avatar" />
 </div>
 
-###
+Hi! I'm Danny, I'm a passionate Game Developer with a love for creating immersive experiences. Currently based in the Netherlands, I'm on a journey to master game development while exploring various creative outlets.
 
-<h3 align="left">Programs I Use</h3>
+---
 
-###
+## Skills & Expertise
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=unreal" height="40" alt="unrealengine logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=blender" height="40" alt="blender logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" height="40" alt="jetbrains logo"  />
-</div>
+### Programming Languages
+🎮 **Primary Languages**
+- JavaScript / TypeScript
+- PHP
+- C++ (Learning)
+- Python
+- Full stack web dev
 
-###
+### Creative Tools
+🎨 **Game Development**
+- Unreal Engine
+- Blender
+- JetBrains (Rider)
 
-<h3 align="left">Polyglot</h3>
+### Development Tools
+🛠️ **Workflow**
+- Git/Perforce
+- Trello
 
-###
+---
 
-<p align="left">Able to speak: English and Dutch<br><br>Want to learn: Japanese, Korean</p>
+## Current Focus
 
-###
+🎯 **Main Projects**
+- Mastering Unreal Engine with C++
+- Building personal game projects
+- Creating open-source tools for developers
 
-<h2 align="left">Follow My Socials!</h2>
+📚 **Learning**
+- Advanced C++ patterns
+- Shader programming
 
-###
+---
 
-<div align="left">
+## Socials & Links
+
+<div align="center">
   <a href="https://x.com/KamiDanji" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="40" height="40" alt="Twitter" />
   </a>
   <a href="http://discordapp.com/users/503840448004096001" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  </a>
-  <a href="https://ko-fi.com/kamidanji" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/ko-fi/default.svg" width="52" height="40" alt="ko-fi logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="40" height="40" alt="Discord" />
   </a>
 </div>
 
-###
+---
 
-<h1 align="center">Activity</h1>
-
-###
+## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KamiDanji&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=aura&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=KamiDanji&show_icons=true&theme=aura&count_private=true&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KamiDanji&theme=aura&count_private=true&hide_border=true" alt="Top Languages" />
 </div>
 
-###
+---
 
-<h2 align="center">Spotify</h2>
+## Spotify
 
-###
+<a href="https://open.spotify.com/user/rztves8z6e5ctzil9ory23qtg">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=rztves8z6e5ctzil9ory23qtg&count=5" alt="Spotify recently played" />
+</a>
 
-<div align="center">
-  <a href="https://open.spotify.com/user/rztves8z6e5ctzil9ory23qtg">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=rztves8z6e5ctzil9ory23qtg&count=5&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
+---
 
-###
