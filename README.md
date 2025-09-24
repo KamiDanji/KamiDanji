@@ -45,6 +45,8 @@ Hi! I'm Danny, I'm a passionate Game Developer with a love for creating immersiv
 🛠️ **Workflow**
 - Git/Perforce
 - Trello
+- Jira
+- Slack
 
 ---
 
