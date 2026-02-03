@@ -1,95 +1,107 @@
 
-# Welcome to My Profile! 🚀
-
-[![Twitter Follow](https://img.shields.io/twitter/follow/KamiDanji?color=coral&logo=twitter&style=for-the-badge)](https://x.com/KamiDanji)
-
----
-
-## Table of Contents
-- [About Me](#about-me)
-- [Skills & Expertise](#skills--expertise)
-- [Current Focus](#current-focus)
-- [Socials & Links](#socials--links)
-- [GitHub Stats](#github-stats)
-- [Spotify](#spotify)
-
----
-
-## About Me
-
 <div align="center">
-  <img src="https://github.com/KamiDanji.png" width="200" alt="My Avatar" />
-</div>
 
-Hi! I'm Danny, I'm a passionate Game Developer with a love for creating immersive experiences. Currently based in the Netherlands, I'm on a journey to master game development while exploring various creative outlets.
+![Profile Views](https://komarev.com/ghpvc/?username=KamiDanji&color=blueviolet&style=for-the-badge)
+  
+# 👋 Hey, I'm Danny
 
----
+**Game Developer | Unreal Engine Enthusiast | 3D Artist**
 
-## Skills & Expertise
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://dannydevos.net)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/KamiDanji)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](http://discordapp.com/users/503840448004096001)
+[![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/rztves8z6e5ctzil9ory23qtg)
 
-### Programming Languages
-🎮 **Primary Languages**
-- JavaScript / TypeScript
-- PHP
-- C++ (Learning)
-- Python
-- Full stack web dev
-
-### Creative Tools
-🎨 **Game Development**
-- Unreal Engine
-- Blender
-- JetBrains (Rider)
-
-### Development Tools
-🛠️ **Workflow**
-- Git/Perforce
-- Trello
-- Jira
-- Slack
-
----
-
-## Current Focus
-
-🎯 **Main Projects**
-- Mastering Unreal Engine with C++
-- Building personal game projects
-- Creating open-source tools for developers
-
-📚 **Learning**
-- Advanced C++ patterns
-- Shader programming
-
----
-
-## Socials & Links
-
-<div align="center">
-  <a href="https://x.com/KamiDanji" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="40" height="40" alt="Twitter" />
-  </a>
-  <a href="http://discordapp.com/users/503840448004096001" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="40" height="40" alt="Discord" />
-  </a>
 </div>
 
 ---
 
-## GitHub Stats
+## 🎮 About Me
+
+Currently studying software development in the Netherlands while diving deep into game development. My goal is to build immersive experiences in **Unreal Engine**, craft game assets in **Blender**, and constantly push myself to learn new tech. When I'm not coding, you'll find me grinding competitive Valorant, Snowboarding or watching anime.
+
+```cpp
+struct Developer {
+    std::string location = "Netherlands 🇳🇱";
+    std::string currentFocus = "Unreal Engine + C++";
+    std::string dreamProject = "Custom Game Engine";
+    std::vector<std::string> hobbies = {
+        "Snowboarding", 
+        "Competitive Gaming", 
+        "Watching Anime"
+    };
+};
+
+Developer danny;
+```
+
+## 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KamiDanji&show_icons=true&theme=aura&count_private=true&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KamiDanji&theme=aura&count_private=true&hide_border=true" alt="Top Languages" />
+
+## Languages
+
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+## Game Development
+
+![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)  
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
+
+## Tools & Workflow
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![Rider](https://img.shields.io/badge/Rider-000000?style=for-the-badge&logo=rider&logoColor=white)  
+![Perforce](https://img.shields.io/badge/Perforce-404040?style=for-the-badge&logo=perforce&logoColor=white)  
+![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
+
 </div>
 
----
+----------
 
-## Spotify
+## 🎯 Current Mission
 
-<a href="https://open.spotify.com/user/rztves8z6e5ctzil9ory23qtg">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=rztves8z6e5ctzil9ory23qtg&count=5" alt="Spotify recently played" />
-</a>
+-   🔥 Mastering  **C++ in and outside of Unreal Engine 5**
+    
+-   🎨 Building custom game assets and mechanics
+    
+-   🌐 Exploring  **OpenGL & shader programming**
+    
+-   🎮 Developing immersive games
+   
+----------
 
----
+## 📊 GitHub Analytics
 
+<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KamiDanji&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KamiDanji&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=8"/> </div>  <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=KamiDanji&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak"/> </div>
+
+----------
+
+## 🎵 Spotify Vibes
+
+<div align="center">
+
+[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=rztves8z6e5ctzil9ory23qtg&count=5&width=600)](https://open.spotify.com/user/rztves8z6e5ctzil9ory23qtg)
+
+</div>
+
+----------
+
+## 🤝 Let's Connect
+
+I'm always open to collaborating on game dev projects, discussing tech, or just vibing about anime and gaming. Hit me up!
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://x.com/KamiDanji)
+
+</div>
+
+----------
+
+<div align="center">
+</div>
