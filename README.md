@@ -25,11 +25,6 @@ struct Developer {
     std::string location = "Netherlands 🇳🇱";
     std::string currentFocus = "Unreal Engine + C++";
     std::string dreamProject = "Custom Game Engine";
-    std::vector<std::string> hobbies = {
-        "Snowboarding", 
-        "Competitive Gaming", 
-        "Watching Anime"
-    };
 };
 
 Developer danny;
