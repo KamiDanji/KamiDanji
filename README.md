@@ -72,7 +72,7 @@ Developer danny;
 
 ## 📊 GitHub Analytics
 
-<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KamiDanji&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KamiDanji&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=8"/> </div>  <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=KamiDanji&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak"/> </div>
+<div align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=kamidanji&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/> </div>  <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=KamiDanji&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak"/> </div>
 
 ----------
 
@@ -93,6 +93,8 @@ I'm always open to collaborating on game dev projects, discussing tech, or just 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://x.com/KamiDanji)
+
+<a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
 
 </div>
 
