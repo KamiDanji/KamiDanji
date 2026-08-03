@@ -80,7 +80,7 @@ Developer danny;
 
 <div align="center">
 
-[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=rztves8z6e5ctzil9ory23qtg)
+[!Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=rztves8z6e5ctzil9ory23qtg)
 
 </div>
 
