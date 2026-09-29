@@ -88,8 +88,6 @@ Developer danny;
 
 ## 🤝 Let's Connect
 
-I'm always open to collaborating on game dev projects, discussing tech, or just vibing about anime and gaming. Hit me up!
-
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://x.com/KamiDanji)
